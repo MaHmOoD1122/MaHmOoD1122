@@ -1,4 +1,4 @@
 <div>
-  <h1>Hi 👋, I'm Mahmoud</h1>
+  <h1>Frontend developer</h1>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </div>
